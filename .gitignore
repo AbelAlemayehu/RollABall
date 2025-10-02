@@ -1,0 +1,17 @@
+# Ignore Unity build and temp files
+Library/
+Temp/
+Obj/
+Build/
+Builds/
+Logs/
+UserSettings/
+
+# macOS junk
+.DS_Store
+
+# VS Code and project files
+.vscode/
+*.csproj
+*.sln
+*.user
